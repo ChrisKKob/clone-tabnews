@@ -1,5 +1,5 @@
-function Home(){
-    return <h1>Se você está lendo isso você terá sorte aumentada</h1>
+function Home() {
+  return <h1>Se você está lendo isso você terá sorte aumentada</h1>;
 }
 
 export default Home;
